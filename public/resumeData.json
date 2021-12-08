@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Ofentse Gaosenkwe",
+    "occupation": "",
+    "description": "I'm an IT final year student",
+    "image": "profilepic.jpg",
+    "bio": "I’m a programming student who emjoys building web and mobile applications and I aspire to be building mobile apps professionally. I enjoy working with the full technology stack, from front to backend and everything inbetween. I enjoy seeing myself do magic with code and the reactions of the people I'm working with when they see my work. Most importantly, I love solving problems and I'm always eager to learn new languages/frameworks. Overall I’m passionate about technology and excited about the future.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "gaosenkweo@gmail.com",
+    "phone": "073 561 3060",
+    "address": {
+      "street": "Dequar, 2nd street",
+      "city": "Pretoria",
+      "state": "South Africa",
+      "zip": "0002"
+    },
+    "website": "https://cvdesignr.com/p/61b0208e63a76",
+    "resumedownload": "https://cvdesignr.com/p/61b0208e63a76",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/OKGaosenkwe",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "North-West University (Vaal campus)",
+        "degree": "BSc in IT",
+        "graduated": "2022",
+        "description": "My first year was not that hard, I excelled in most of my modules but as the years progressed, it got harder. I added another year to my four year program. The workload became intense and by the fact that I had not done programming in high school, put on a lot of pressure on me. There was a time where I wanted to dropout because I had failed some of my 3rd year modules. However, despite the challenges, I told myself that no matter how long it takes me to obtain this degree, I will make sure to complete it. "
+      }
+     
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+     
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "C#",
+        "level": "55%"
+      },
+      {
+        "name": "C++",
+        "level": "70%"
+      },
+      {
+        "name": "HTML",
+        "level": "65%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "CV Website",
+        "category": "A React based resume website",
+        "image": "resume-website.jpg",
+        "url": " http://192.168.43.147:3000"
+      }
+   
+  
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
